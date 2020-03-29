@@ -1,3 +1,5 @@
+[![cmeireis](https://circleci.com/gh/cmeireis/deployMicroserviceproject.svg?style=svg)](https://app.circleci.com/pipelines/github/cmeireis/deployMicroserviceproject/2/workflows/6ed278ff-8b78-4b9c-a1f3-8599b2492c1f)
+
 Deploying a pre-trained, sklearn model that has been trained to predict housing prices in Boston according to several features, such as average rooms in a home and data about highway access, teacher-to-pupil ratios, and so on.
 You can read more about the data, which was initially taken from Kaggle, on the data source site.
 This project tests your ability to operationalize a Python flask app—in a provided file, app.py—that serves out predictions (inference) about housing prices through API calls. 
